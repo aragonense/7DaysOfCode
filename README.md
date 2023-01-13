@@ -1,10 +1,10 @@
-# 7DaysOfCode
+# Desafio 7DaysOfCode
 ![](https://github.com/aragonense/7DaysOfCode/blob/master/img/_Button%20base.svg)
 
 
-# [](https://github.com/pejamp/adopet-alurachallenge#adopet-)Alura Books 
+# [](https://github.com/aragonense/7DaysOfCode)OptimusTech 
 
-A empresa AdoPet têm como objetivo fazer o intermédio entre adotantes de animais e ONGs que possuem foco de retirar animais da rua.
+O escopo do projeto é o seguinte: uma empresa de TI quer desenvolver uma página destinada a novas contratações e contratou você para desenvolvê-la.
 
 ## [](https://github.com/pejamp/adopet-alurachallenge#-tecnologias)🧪  Tecnologias
 
@@ -16,7 +16,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## [](https://github.com/pejamp/adopet-alurachallenge#-projeto)💻  Projeto
 
--   [AluraBooks](https://aragonense.github.io/alurabooks)
+-   [Optimus Tech](https://aragonense.github.io/7DaysOfCode)
 
 ## [](https://github.com/aragonense/alurabooks/#%EF%B8%8F-author)✒️  Co-Author
 
