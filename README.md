@@ -1,6 +1,6 @@
 # 7DaysOfCode
+![](https://github.com/aragonense/7DaysOfCode/blob/master/img/_Button%20base.svg)
 
-[](https://github.com/pejamp/adopet-alurachallenge#----)[![AluraGeek](https://github.com/pejamp/adopet-alurachallenge/raw/main/src/assets/Capa.png)](https://github.com/pejamp/adopet-alurachallenge/blob/main/src/assets/Capa.png)
 
 # [](https://github.com/pejamp/adopet-alurachallenge#adopet-)Alura Books 
 
