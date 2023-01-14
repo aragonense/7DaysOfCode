@@ -1,22 +1,25 @@
 .banner{
-    display: block;
+    display: flex;
+    flex-direction: column;
     text-align: center;
-    padding: 2em 20em
+    padding: 5em;
+    background-color: cadetblue;
 }
 
 .banner__titulo{
     color: var(--vermelho-botoes);
-    font-weight: 600;
-    
+    font-weight: 600;    
 }
 
 .banner__texto{
     font-size: 48px;
     font-weight: 600;
-    margin: 0.5em 0;
+    margin: 1.5em 0;
 }
 .banner__texto-2{
     font-size: 20px;
     font-weight: 400;
-    
+    line-height: 1.5em;
+    padding: 0 80px;
+    color: var(--cinza-claro);    
 }
