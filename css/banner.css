@@ -1,0 +1,22 @@
+.banner{
+    display: block;
+    text-align: center;
+    padding: 2em 20em
+}
+
+.banner__titulo{
+    color: var(--vermelho-botoes);
+    font-weight: 600;
+    
+}
+
+.banner__texto{
+    font-size: 48px;
+    font-weight: 600;
+    margin: 0.5em 0;
+}
+.banner__texto-2{
+    font-size: 20px;
+    font-weight: 400;
+    
+}

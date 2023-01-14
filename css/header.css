@@ -1,0 +1,43 @@
+.cabecalho{
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: var(--fonte-primaria);
+    font-size: 16px;    
+}
+
+.cabecalho__container{
+    display: flex;
+    align-items: center;       
+}
+
+.cabecalho__imagem{
+    width: 30%;
+}
+.cabecalho__titulo{
+    display: flex;
+    font-size: 18px;
+    padding-left: 8px;    
+}
+
+.cabecalho__lista{
+    display: flex;
+}
+
+.cabecalho__lista-item{
+    padding: 1em;
+}
+.cabecalho__lista-link{
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.botao__cadastrar{
+    background: var(--vermelho-botoes);
+    color: white;
+    padding: 1em;
+    border-radius: 0.5em;
+    margin-left: 1em;
+
+}

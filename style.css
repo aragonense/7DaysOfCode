@@ -1,0 +1,14 @@
+@import url("css/header.css");
+@import url("css/banner.css");
+@import url("css/footer.css");
+
+:root{
+    --fonte-primaria: "Inter", sans-serif;
+    --vermelho-botoes: #8E2424;
+}
+
+body{
+    font-family: var(--fonte-primaria);
+    font-size: 16px;
+    
+}
