@@ -2,14 +2,18 @@
 @import url("css/banner.css");
 @import url("css/footer.css");
 @import url("css/dados.css");
+@import url("css/vagas.css");
 
 :root{
     --fonte-primaria: "Inter", sans-serif;
-    --cinza-claro: #667085;
+    --cinza-claro: #667085; 
+    --cor-padrao-texto: #101828;
     --vermelho-botoes: #8E2424;
+    --cinza-borda: #EAECF0;
 }
 
 body{
+    color: var(--cor-padrao-texto);
     font-family: var(--fonte-primaria);
     font-size: 16px;
     
