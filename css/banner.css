@@ -3,18 +3,20 @@
     flex-direction: column;
     text-align: center;
     padding: 5em;
-    background-color: cadetblue;
+   
 }
 
 .banner__titulo{
     color: var(--vermelho-botoes);
-    font-weight: 600;    
+    font-weight: 600;
+      
 }
 
 .banner__texto{
     font-size: 48px;
     font-weight: 600;
     margin: 1.5em 0;
+    padding-top: 16px;
 }
 .banner__texto-2{
     font-size: 20px;

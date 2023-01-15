@@ -3,10 +3,11 @@
 @import url("css/footer.css");
 @import url("css/dados.css");
 @import url("css/vagas.css");
+@import url("css/colaboradores.css");
 
 :root{
     --fonte-primaria: "Inter", sans-serif;
-    --cinza-claro: #667085; 
+    --cinza-claro: #b4b8c2; 
     --cor-padrao-texto: #101828;
     --vermelho-botoes: #8E2424;
     --cinza-borda: #EAECF0;

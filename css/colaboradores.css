@@ -1,0 +1,43 @@
+.colaboradores{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    padding: 64px;
+    margin: 0 112px 96px 112px;
+    background-color: rgba(196, 25, 25, 0.03);
+
+}
+.container__colaboradores{
+    
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+    
+    
+
+}
+
+.container__colaboradores .banner__texto{
+    font-size: 36px;
+    padding: 0 10rem;
+    
+
+}
+.colaborador{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.colaborador__nome{
+    font-weight: 500;
+    font-size: 16px;
+    
+    padding: 16px 0 4px 0 ;
+}
+.colaborador__funcao{
+    font-size: 14px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+}
