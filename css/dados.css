@@ -7,7 +7,7 @@
 }
 .container__dados__lista{
     display: flex;
-    align-items: center;
+    
     
 
 }
@@ -18,19 +18,20 @@
     padding: 1em;
 }
 .dados{
-    font-size: 60px;
+    font-size: 3rem;
     font-weight: 600;
     color: var(--vermelho-botoes);
 }
 
 .dados__titulo{
-    font-size: 18px;
+    font-size: 1.5rem;
     font-weight: 500;
     padding: 2em 0;
 
 }
 .dados__texto{
     color: var(--cinza-claro);
-    padding: 0 7.5em 0 0;
+    padding: auto;
+    font-size: 1rem;
     
 }
