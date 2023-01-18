@@ -7,6 +7,7 @@
 }
 .container__dados__lista{
     display: flex;
+    align-items: stretch;
     
     
 
