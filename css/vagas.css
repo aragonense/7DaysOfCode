@@ -1,5 +1,6 @@
 .container__vagas{
     padding: 3em 80px;
+    box-shadow: 0px 0px 3px #888888; 
 }
 
 .container__vagas .banner__texto{
