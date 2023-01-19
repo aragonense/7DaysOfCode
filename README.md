@@ -1,5 +1,3 @@
-Rápida descrição do objetivo de fazer esse projeto
-
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **7 Days of Code de HTML e CSS - OptimusTEch**
@@ -8,10 +6,9 @@ Rápida descrição do objetivo de fazer esse projeto
 | :fire: Desafio     | [7 Days of Code de HTML e CSS](https://7daysofcode.io/matricula/html-css)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Imagem Projeto](https://imgur.com/a/opq85Tg?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 # Detalhes do projeto
-
 
 ## Desafio 7DaysOfCode
 ![](https://github.com/aragonense/7DaysOfCode/blob/master/img/_Button%20base.svg)
