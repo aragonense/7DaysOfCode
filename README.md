@@ -6,7 +6,7 @@
 | :fire: Desafio     | [7 Days of Code de HTML e CSS](https://7daysofcode.io/matricula/html-css)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Imagem Projeto](https://imgur.com/a/opq85Tg?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Imagem Projeto](https://i.imgur.com/lqs9Bet.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
 
 # Detalhes do projeto
 
